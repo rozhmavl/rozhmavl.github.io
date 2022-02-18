@@ -146,3 +146,7 @@ X. ОСВЕЩЕНИЕ НА РАБОЧИХ МЕСТАХ
 
 ### Задание 1.10
 
+[АЛГОРИТМ УСТАНОВКИ](https://github.com/rozhmavl/rozhmavl.github.io/blob/main/ISR1.10.txt)
+
+### Задание 1.11
+
