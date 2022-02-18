@@ -151,3 +151,11 @@ X. ОСВЕЩЕНИЕ НА РАБОЧИХ МЕСТАХ
 ### Задание 1.11
 
 ![ISR1.11](https://user-images.githubusercontent.com/99919655/154658165-27f568d7-7eef-46dd-a4e1-457f3cd16e38.png)
+
+### II. Вариативная самостоятельная работа
+
+### Задание 2.1
+
+![VSR2.1](https://user-images.githubusercontent.com/99919655/154663640-cff3cc56-0781-4df9-9c4a-fe6f6ce8e5a1.png)
+
+### Задание 2.2
