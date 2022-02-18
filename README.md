@@ -101,3 +101,5 @@
 [Комплекс физических упражнений для программиста.](https://github.com/rozhmavl/rozhmavl.github.io/blob/main/ISR1.4.txt)
 
 ### Задание 1.5
+
+[Гимнастика для глаз.](https://github.com/rozhmavl/rozhmavl.github.io/blob/main/ISR1.5.txt)
