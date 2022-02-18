@@ -1,0 +1,15 @@
+Технические средства информационно-вычислительной системы
+
+Процессор: 
+	Intel® Xeon® X3440 2,53 GHz
+ОЗУ: 
+	8 ГБ DDR3 1333 МГц DIMM
+Мат. плата: 
+	ASUS P7P55 LX, Socket LGA1156, 2500 МГц
+SSD:
+	64 GB Vaseky SATA
+HDD:
+	250 GB Seagate SATA
+	1024 GB WD Blue SATA
+Видеокарта:
+	GeForce GTX 750 Inno3D 1 GB
