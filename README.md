@@ -50,6 +50,8 @@
   
 
 ### Задание 1.2
-![alt text](https://github.com/rozhmavl/rozhmavl.github.io/blob/main/важные%20этапы%20в%20истории%20развития%20информатики-1.png)
+![alt text][logo]
+
+[logo]: https://github.com/rozhmavl/rozhmavl.github.io/blob/main/важные%20этапы%20в%20истории%20развития%20информатики-1.png
 
 ### Задание 1.3
