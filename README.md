@@ -50,6 +50,6 @@
   
 
 ### Задание 1.2
-![alt text](https://github.com/rozhmavl/rozhmavl.github.io/blob/main/важные%20этапы%20в%20истории%20развития%20информатики-1.png "Logo Title Text 1")
+![alt text](https://github.com/rozhmavl/rozhmavl.github.io/blob/main/важные%20этапы%20в%20истории%20развития%20информатики-1.png)
 
 ### Задание 1.3
