@@ -150,3 +150,4 @@ X. ОСВЕЩЕНИЕ НА РАБОЧИХ МЕСТАХ
 
 ### Задание 1.11
 
+![ISR1.11](https://user-images.githubusercontent.com/99919655/154658165-27f568d7-7eef-46dd-a4e1-457f3cd16e38.png)
