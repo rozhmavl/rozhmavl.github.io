@@ -116,7 +116,7 @@
 
 ### Задание 1.8
 
-
+[ОПИСАНИЕ ИНТЕРФЕЙСА И ВОЗМОЖНОСТИ РАБОТЫ С СИСТЕМОЙ](https://github.com/rozhmavl/rozhmavl.github.io/blob/main/ISR1.8.txt)
 
 ### Задание 1.9
 
