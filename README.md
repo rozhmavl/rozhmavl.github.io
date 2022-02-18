@@ -98,8 +98,21 @@
 
 ### Задание 1.4
 
-[Комплекс физических упражнений для программиста.](https://github.com/rozhmavl/rozhmavl.github.io/blob/main/ISR1.4.txt)
+[Комплекс физических упражнений для программиста](https://github.com/rozhmavl/rozhmavl.github.io/blob/main/ISR1.4.txt)
 
 ### Задание 1.5
 
-[Гимнастика для глаз.](https://github.com/rozhmavl/rozhmavl.github.io/blob/main/ISR1.5.txt)
+[Гимнастика для глаз](https://github.com/rozhmavl/rozhmavl.github.io/blob/main/ISR1.5.txt)
+
+### Задание 1.6
+
+[Инструкция по охране труда для программиста](https://kubts.ru/dokumenty/obraztsy-dokumentov-po-okhrane-truda/obuchenie-po-okhrane-truda/instruktsii-po-okhrane-truda/instruktsiya-po-okhrane-truda-dlya-programmista/)
+
+(Этот ресурс был выбран, так как на нём самый приятный дизайн из всех, что были мною исследованы, без лишней рекламы на весь экран, приятными сочетаниями цветов и современным шрифтом)
+
+### Задание 1.7
+
+[КВАЛИФИКАЦИОННЫЙ СПРАВОЧНИК ДОЛЖНОСТЕЙ РУКОВОДИТЕЛЕЙ, СПЕЦИАЛИСТОВ И ДРУГИХ СЛУЖАЩИХ](https://normativ.kontur.ru/document?moduleId=1&documentId=191036)
+
+### Задание 1.8
+
